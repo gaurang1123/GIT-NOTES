@@ -1,1 +1,1 @@
-../Git_notes.md
+./Git_notes.md
